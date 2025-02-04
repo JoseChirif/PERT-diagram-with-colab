@@ -4,6 +4,25 @@ This repository contains a Google Colab notebook that downloads an Excel templat
 
 ![Preview badge](https://github.com/user-attachments/assets/02d79929-88a0-4e43-b6c0-34b9c18d9203)
 
+
+# Table of contents
+- [Video instructions (setup + execution)](#%EF%B8%8F-video-instructions)
+- [Features](#-features)
+- [Prerequisites](#-prerequisites)
+- [Documentation and colaboration](#-how-to-run)
+- [Author](#%EF%B8%8F-author)
+<br><br>
+
+
+# ▶️ Video instructions
+
+Check the instruction guide on YouTube 🎬:
+- **[English](https://youtu.be/2ektqyB7WLE?si=9hD5-VPV9LbkD8rd)**
+- **[Español](https://youtu.be/ha9_bdEis3k?si=o_c_2QsBK4balf4R)**
+<br><br>
+
+
+
 # ✨ Features
 
 - **Excel Template Download**: The notebook downloads a pre-configured Excel template.

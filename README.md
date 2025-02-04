@@ -6,7 +6,7 @@ This repository contains a Google Colab notebook that downloads an Excel templat
 
 
 # Table of contents
-- [Video instructions (setup + execution)](#%EF%B8%8F-video-instructions)
+- [Video instructions](#%EF%B8%8F-video-instructions)
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
 - [Documentation and colaboration](#-how-to-run)
